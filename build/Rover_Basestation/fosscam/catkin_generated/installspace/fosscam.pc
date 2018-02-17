@@ -1,0 +1,8 @@
+prefix=/home/harsh/Desktop/Biosystems/install
+
+Name: fosscam
+Description: Description of fosscam
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/harsh/Desktop/Biosystems/install/lib 
+Requires: 

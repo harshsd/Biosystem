@@ -1,0 +1,2 @@
+Rover_Basestation/fosscam:Rover_Basestation/ip_cam_10:Rover_Basestation/rover_mobility:biosystems
+-DCATKIN_DEVEL_PREFIX=/home/harsh/Desktop/Biosystems/devel -DCMAKE_INSTALL_PREFIX=/home/harsh/Desktop/Biosystems/install -G Unix Makefiles

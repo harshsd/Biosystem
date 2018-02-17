@@ -1,0 +1,8 @@
+prefix=/home/harsh/Desktop/Biosystems/devel
+
+Name: biosystems
+Description: Description of biosystems
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/harsh/Desktop/Biosystems/devel/lib 
+Requires: 
